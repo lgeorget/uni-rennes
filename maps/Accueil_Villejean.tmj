@@ -569,7 +569,13 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/@\/universite-rennes-2\/metavers\/i@h"
-                }],
+                },
+                {
+                 "name":"script",
+                 "type":"string",
+                 "value":"..\/scripts\/accueil_villejean.ts"
+                }
+         ],
          "type":"tilelayer",
          "visible":false,
          "width":120,
