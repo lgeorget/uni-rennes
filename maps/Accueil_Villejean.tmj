@@ -57706,6 +57706,11 @@
           "name": "exitUrl",
           "type": "string",
           "value": "https://play.workadventu.re/@/universite-rennes-2/metavers/i@h"
+        },
+        {
+          "name": "script",
+          "type": "string",
+          "value": "../scripts/accueil_villejean.ts"
         }
       ],
       "x": 0,
@@ -202119,7 +202124,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "Accueil_Villejean-chunk-1-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-1-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202155,7 +202160,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "Accueil_Villejean-chunk-2-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-2-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202170,7 +202175,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "Accueil_Villejean-chunk-3-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-3-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202185,7 +202190,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "Accueil_Villejean-chunk-4-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-4-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202200,7 +202205,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "Accueil_Villejean-chunk-5-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-5-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202215,7 +202220,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "Accueil_Villejean-chunk-6-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-6-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202230,7 +202235,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "Accueil_Villejean-chunk-7-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-7-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202245,7 +202250,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "Accueil_Villejean-chunk-8-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-8-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202260,7 +202265,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "Accueil_Villejean-chunk-9-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-9-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202275,7 +202280,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "Accueil_Villejean-chunk-10-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-10-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202290,7 +202295,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "Accueil_Villejean-chunk-11-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-11-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202305,7 +202310,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "Accueil_Villejean-chunk-12-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-12-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202320,7 +202325,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "Accueil_Villejean-chunk-13-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-13-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202335,7 +202340,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "Accueil_Villejean-chunk-14-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-14-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202350,7 +202355,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "Accueil_Villejean-chunk-15-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-15-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202365,7 +202370,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "Accueil_Villejean-chunk-16-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-16-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202380,7 +202385,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "Accueil_Villejean-chunk-17-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-17-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202395,7 +202400,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "Accueil_Villejean-chunk-18-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-18-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202410,7 +202415,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "Accueil_Villejean-chunk-19-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-19-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202425,7 +202430,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "Accueil_Villejean-chunk-20-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-20-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202440,7 +202445,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "Accueil_Villejean-chunk-21-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-21-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202455,7 +202460,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "Accueil_Villejean-chunk-22-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-22-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202470,7 +202475,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "Accueil_Villejean-chunk-23-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-23-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202485,7 +202490,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "Accueil_Villejean-chunk-24-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-24-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202500,7 +202505,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "Accueil_Villejean-chunk-25-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-25-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202515,7 +202520,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "Accueil_Villejean-chunk-26-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-26-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202530,7 +202535,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "Accueil_Villejean-chunk-27-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-27-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202545,7 +202550,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "Accueil_Villejean-chunk-28-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-28-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202560,7 +202565,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "Accueil_Villejean-chunk-29-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-29-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202575,7 +202580,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "Accueil_Villejean-chunk-30-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-30-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202590,7 +202595,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "Accueil_Villejean-chunk-31-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-31-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202605,7 +202610,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "Accueil_Villejean-chunk-32-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-32-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202620,7 +202625,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "Accueil_Villejean-chunk-33-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-33-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202635,7 +202640,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "Accueil_Villejean-chunk-34-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-34-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202650,7 +202655,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "Accueil_Villejean-chunk-35-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-35-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202665,7 +202670,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "Accueil_Villejean-chunk-36-2b895a13.png",
+      "image": "Accueil_Villejean-chunk-36-fee8fe45.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
